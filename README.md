@@ -1,14 +1,17 @@
 # DLSS-NR-ALL
 It's a collection of MFG from different modders and Repos
 
-### **∆. MFG for RTX 20 and 30 series GPUs .∆**
-These are 2 Files for RTX older cards for multiple frame gen without needing any kind of optiscaler MoDs or any third party tools 
+### **∆. MFG for RTX 20 and 30 and 40 series GPUs .∆**
+These are Files for RTX older cards for multiple frame gen without needing any kind of optiscaler MoDs or any third party tools 
 Just Extract and Paste files directly to your game directory and BOOooM!!
 
 > Main credit Links
 
-#RTX 30➤ https://github.com/sdli1995/dlssg_for_sm86
-#RTX 20➤ https://github.com/Coldwood1026/dlssg_for_sm75
+##RTX 40➤ https://github.com/mavismmg/MFGAdaUnlock-RenoDx
+
+##RTX 30➤ https://github.com/sdli1995/dlssg_for_sm86
+
+##RTX 20➤ https://github.com/Coldwood1026/dlssg_for_sm75
 
 ### ** ALL DLSS NR AND ADD-ONS **
 
@@ -27,8 +30,6 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 #**NEURAL UPSTREAM** ➤https://github.com/matiasLombo/neural-upstream
 
 #**DLSS 5 FEEDER** ➤https://github.com/jlrouzies-fr/DLSS5-Feeder
-
-#**RENODX DLSS 5** ➤https://github.com/mavismmg/MFGAdaUnlock-RenoDx
 
 #**DLSS  5 BRIDGE** ➤https://github.com/NIGos/dlss5-bridge
 
