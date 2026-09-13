@@ -23,7 +23,7 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 
 #**DLSS 5 AUTOPILOT** ➤https://github.com/Kizzuwatnaa/DLSS5-Autopilot
 
-#**DLSS NR MULTIPASS MFG** ➤https://github.com/y4my4my4m/OptiScaler_DLSSNR_Multipass_MFG
+#**DLSS NR MULTIPASS** ➤https://github.com/y4my4my4m/OptiScaler_DLSSNR_Multipass_MFG
 
 #**MFG UNLCOKED** ➤https://github.com/matiasLombo/mfg-unlock
 
@@ -41,7 +41,9 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 
 #**RTX STREAMLINE** ➤https://github.com/NVIDIA-RTX/Streamline
 
-#**DLSS FG DLL** ➤https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/
+#**DLSS FG DLL** ➤https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll
+
+#**OPTISCALER MAIN** ➤https://github.com/optiscaler/OptiScaler
 
 
 
