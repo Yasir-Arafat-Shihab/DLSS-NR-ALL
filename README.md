@@ -1,11 +1,13 @@
 # DLSS-NR-ALL
 It's a collection of MFG from different modders and Repos
 
+>_CHECK MY RELEASES FIRST FOR COMPLETE PACKAGE_
+
 ### **∆. MFG for RTX 20 and 30 and 40 series GPUs .∆**
 These are Files for RTX older cards for multiple frame gen without needing any kind of optiscaler MoDs or any third party tools 
 Just Extract and Paste files directly to your game directory and BOOooM!!
 
-> Main credit Links
+**Links** ☞
 
 ##RTX 40➤ https://github.com/mavismmg/MFGAdaUnlock-RenoDx
 
