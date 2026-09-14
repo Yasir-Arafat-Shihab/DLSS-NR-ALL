@@ -17,6 +17,8 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 
 #**DLSS UNLOCKED** ➤ https://github.com/ShyVortex/dlss-unlocked
 
+#**UNIVERSAL RTXMFG** ➤https://github.com/dashdogy/RTX40MFG-Unlock
+
 #**RESHADE HDR** ➤ https://github.com/RankFTW/RHI
 
 #**OPTISCALER DLSSNR** ➤ https://github.com/Dagherbou/OptiScaler_DLSSNR
