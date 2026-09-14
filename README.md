@@ -21,7 +21,7 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 
 #**OPTISCALER DLSSNR** ➤ https://github.com/Dagherbou/OptiScaler_DLSSNR
 
-#**FLSS ENABLER** ➤https://github.com/artur-graniszewski/DLSS-Enabler
+#**DLSS ENABLER** ➤https://github.com/artur-graniszewski/DLSS-Enabler
 
 #**DLSS 5 AUTOPILOT** ➤https://github.com/Kizzuwatnaa/DLSS5-Autopilot
 
