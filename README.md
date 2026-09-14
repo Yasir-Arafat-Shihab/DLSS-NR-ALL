@@ -29,6 +29,8 @@ Just Extract and Paste files directly to your game directory and BOOooM!!
 
 #**DLSS NR MULTIPASS** ➤https://github.com/y4my4my4m/OptiScaler_DLSSNR_Multipass_MFG
 
+#**DLSS NR PRESR MULTIPASS** ➤https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass
+
 #**MFG UNLCOKED** ➤https://github.com/matiasLombo/mfg-unlock
 
 #**NEURAL UPSTREAM** ➤https://github.com/matiasLombo/neural-upstream
